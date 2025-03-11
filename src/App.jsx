@@ -154,7 +154,7 @@ function App() {
                 className="contact-link flex items-center gap-2"
               >
                 <span className="text-indigo-400">📞</span>
-                <span>+1(361) 466-7461</span>
+                <span>+1(361) 123-4567</span>
               </a>
               <a
                 href="mailto:ybhavana2023@gmail.com"
